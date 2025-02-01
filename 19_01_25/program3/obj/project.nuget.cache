@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "UiJ1VLBx8qw=",
+  "success": true,
+  "projectFilePath": "/Users/komal/Desktop/19_01_25/program3/program3.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file /Users/komal/Desktop/19_01_25/program3/obj/project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/Users/komal/Desktop/19_01_25/program11/bin/Debug/net6.0/program11
+/Users/komal/Desktop/19_01_25/program11/bin/Debug/net6.0/program11.deps.json
+/Users/komal/Desktop/19_01_25/program11/bin/Debug/net6.0/program11.runtimeconfig.json
+/Users/komal/Desktop/19_01_25/program11/bin/Debug/net6.0/program11.dll
+/Users/komal/Desktop/19_01_25/program11/bin/Debug/net6.0/program11.pdb
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/program11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/program11.AssemblyInfoInputs.cache
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/program11.AssemblyInfo.cs
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/program11.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/program11.sourcelink.json
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/program11.dll
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/refint/program11.dll
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/program11.pdb
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/program11.genruntimeconfig.cache
+/Users/komal/Desktop/19_01_25/program11/obj/Debug/net6.0/ref/program11.dll
