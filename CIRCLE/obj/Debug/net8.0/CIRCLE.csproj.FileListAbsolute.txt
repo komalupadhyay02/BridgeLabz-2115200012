@@ -1,0 +1,15 @@
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/CIRCLE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/CIRCLE.AssemblyInfoInputs.cache
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/CIRCLE.AssemblyInfo.cs
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/CIRCLE.csproj.CoreCompileInputs.cache
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/CIRCLE.sourcelink.json
+/Users/komal/CONSTRUCTORS/CIRCLE/bin/Debug/net8.0/CIRCLE
+/Users/komal/CONSTRUCTORS/CIRCLE/bin/Debug/net8.0/CIRCLE.deps.json
+/Users/komal/CONSTRUCTORS/CIRCLE/bin/Debug/net8.0/CIRCLE.runtimeconfig.json
+/Users/komal/CONSTRUCTORS/CIRCLE/bin/Debug/net8.0/CIRCLE.dll
+/Users/komal/CONSTRUCTORS/CIRCLE/bin/Debug/net8.0/CIRCLE.pdb
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/CIRCLE.dll
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/refint/CIRCLE.dll
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/CIRCLE.pdb
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/CIRCLE.genruntimeconfig.cache
+/Users/komal/CONSTRUCTORS/CIRCLE/obj/Debug/net8.0/ref/CIRCLE.dll

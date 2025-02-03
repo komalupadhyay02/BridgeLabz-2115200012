@@ -1,0 +1,15 @@
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/Hotel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/Hotel.AssemblyInfoInputs.cache
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/Hotel.AssemblyInfo.cs
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/Hotel.csproj.CoreCompileInputs.cache
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/Hotel.sourcelink.json
+/Users/komal/CONSTRUCTORS/Hotel/bin/Debug/net8.0/Hotel
+/Users/komal/CONSTRUCTORS/Hotel/bin/Debug/net8.0/Hotel.deps.json
+/Users/komal/CONSTRUCTORS/Hotel/bin/Debug/net8.0/Hotel.runtimeconfig.json
+/Users/komal/CONSTRUCTORS/Hotel/bin/Debug/net8.0/Hotel.dll
+/Users/komal/CONSTRUCTORS/Hotel/bin/Debug/net8.0/Hotel.pdb
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/Hotel.dll
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/refint/Hotel.dll
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/Hotel.pdb
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/Hotel.genruntimeconfig.cache
+/Users/komal/CONSTRUCTORS/Hotel/obj/Debug/net8.0/ref/Hotel.dll

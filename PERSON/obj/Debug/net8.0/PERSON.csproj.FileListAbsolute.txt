@@ -1,0 +1,15 @@
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/PERSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/PERSON.AssemblyInfoInputs.cache
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/PERSON.AssemblyInfo.cs
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/PERSON.csproj.CoreCompileInputs.cache
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/PERSON.sourcelink.json
+/Users/komal/CONSTRUCTORS/PERSON/bin/Debug/net8.0/PERSON
+/Users/komal/CONSTRUCTORS/PERSON/bin/Debug/net8.0/PERSON.deps.json
+/Users/komal/CONSTRUCTORS/PERSON/bin/Debug/net8.0/PERSON.runtimeconfig.json
+/Users/komal/CONSTRUCTORS/PERSON/bin/Debug/net8.0/PERSON.dll
+/Users/komal/CONSTRUCTORS/PERSON/bin/Debug/net8.0/PERSON.pdb
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/PERSON.dll
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/refint/PERSON.dll
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/PERSON.pdb
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/PERSON.genruntimeconfig.cache
+/Users/komal/CONSTRUCTORS/PERSON/obj/Debug/net8.0/ref/PERSON.dll
