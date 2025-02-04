@@ -1,0 +1,15 @@
+/Users/komal/03_02_25/VEHCLE/bin/Debug/net8.0/VEHCLE
+/Users/komal/03_02_25/VEHCLE/bin/Debug/net8.0/VEHCLE.deps.json
+/Users/komal/03_02_25/VEHCLE/bin/Debug/net8.0/VEHCLE.runtimeconfig.json
+/Users/komal/03_02_25/VEHCLE/bin/Debug/net8.0/VEHCLE.dll
+/Users/komal/03_02_25/VEHCLE/bin/Debug/net8.0/VEHCLE.pdb
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/VEHCLE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/VEHCLE.AssemblyInfoInputs.cache
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/VEHCLE.AssemblyInfo.cs
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/VEHCLE.csproj.CoreCompileInputs.cache
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/VEHCLE.sourcelink.json
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/VEHCLE.dll
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/refint/VEHCLE.dll
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/VEHCLE.pdb
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/VEHCLE.genruntimeconfig.cache
+/Users/komal/03_02_25/VEHCLE/obj/Debug/net8.0/ref/VEHCLE.dll

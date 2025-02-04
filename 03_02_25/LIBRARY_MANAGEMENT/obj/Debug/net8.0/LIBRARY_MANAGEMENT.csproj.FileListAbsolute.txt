@@ -1,0 +1,15 @@
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/LIBRARY_MANAGEMENT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/LIBRARY_MANAGEMENT.AssemblyInfoInputs.cache
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/LIBRARY_MANAGEMENT.AssemblyInfo.cs
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/LIBRARY_MANAGEMENT.csproj.CoreCompileInputs.cache
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/LIBRARY_MANAGEMENT.sourcelink.json
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/bin/Debug/net8.0/LIBRARY_MANAGEMENT
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/bin/Debug/net8.0/LIBRARY_MANAGEMENT.deps.json
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/bin/Debug/net8.0/LIBRARY_MANAGEMENT.runtimeconfig.json
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/bin/Debug/net8.0/LIBRARY_MANAGEMENT.dll
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/bin/Debug/net8.0/LIBRARY_MANAGEMENT.pdb
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/LIBRARY_MANAGEMENT.dll
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/refint/LIBRARY_MANAGEMENT.dll
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/LIBRARY_MANAGEMENT.pdb
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/LIBRARY_MANAGEMENT.genruntimeconfig.cache
+/Users/komal/03_02_25/LIBRARY_MANAGEMENT/obj/Debug/net8.0/ref/LIBRARY_MANAGEMENT.dll

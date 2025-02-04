@@ -1,0 +1,15 @@
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/BANK_MANAGEMNET.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/BANK_MANAGEMNET.AssemblyInfoInputs.cache
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/BANK_MANAGEMNET.AssemblyInfo.cs
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/BANK_MANAGEMNET.csproj.CoreCompileInputs.cache
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/BANK_MANAGEMNET.sourcelink.json
+/Users/komal/03_02_25/BANK_MANAGEMNET/bin/Debug/net8.0/BANK_MANAGEMNET
+/Users/komal/03_02_25/BANK_MANAGEMNET/bin/Debug/net8.0/BANK_MANAGEMNET.deps.json
+/Users/komal/03_02_25/BANK_MANAGEMNET/bin/Debug/net8.0/BANK_MANAGEMNET.runtimeconfig.json
+/Users/komal/03_02_25/BANK_MANAGEMNET/bin/Debug/net8.0/BANK_MANAGEMNET.dll
+/Users/komal/03_02_25/BANK_MANAGEMNET/bin/Debug/net8.0/BANK_MANAGEMNET.pdb
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/BANK_MANAGEMNET.dll
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/refint/BANK_MANAGEMNET.dll
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/BANK_MANAGEMNET.pdb
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/BANK_MANAGEMNET.genruntimeconfig.cache
+/Users/komal/03_02_25/BANK_MANAGEMNET/obj/Debug/net8.0/ref/BANK_MANAGEMNET.dll
