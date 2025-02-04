@@ -1,0 +1,15 @@
+/Users/komal/Desktop/Review1/fibonnaci/bin/Debug/net6.0/fibonnaci
+/Users/komal/Desktop/Review1/fibonnaci/bin/Debug/net6.0/fibonnaci.deps.json
+/Users/komal/Desktop/Review1/fibonnaci/bin/Debug/net6.0/fibonnaci.runtimeconfig.json
+/Users/komal/Desktop/Review1/fibonnaci/bin/Debug/net6.0/fibonnaci.dll
+/Users/komal/Desktop/Review1/fibonnaci/bin/Debug/net6.0/fibonnaci.pdb
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/fibonnaci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/fibonnaci.AssemblyInfoInputs.cache
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/fibonnaci.AssemblyInfo.cs
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/fibonnaci.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/fibonnaci.dll
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/refint/fibonnaci.dll
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/fibonnaci.pdb
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/fibonnaci.genruntimeconfig.cache
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/ref/fibonnaci.dll
+/Users/komal/Desktop/Review1/fibonnaci/obj/Debug/net6.0/fibonnaci.sourcelink.json
