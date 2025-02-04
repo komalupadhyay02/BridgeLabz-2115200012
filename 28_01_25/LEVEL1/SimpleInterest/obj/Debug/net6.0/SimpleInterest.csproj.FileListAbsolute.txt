@@ -1,0 +1,15 @@
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/bin/Debug/net6.0/SimpleInterest
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/bin/Debug/net6.0/SimpleInterest.deps.json
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/bin/Debug/net6.0/SimpleInterest.runtimeconfig.json
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/bin/Debug/net6.0/SimpleInterest.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/bin/Debug/net6.0/SimpleInterest.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/SimpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/SimpleInterest.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/SimpleInterest.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/SimpleInterest.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/SimpleInterest.sourcelink.json
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/SimpleInterest.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/refint/SimpleInterest.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/SimpleInterest.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/SimpleInterest.genruntimeconfig.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/SimpleInterest/obj/Debug/net6.0/ref/SimpleInterest.dll

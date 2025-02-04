@@ -1,0 +1,15 @@
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/bin/Debug/net6.0/TriangularPark
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/bin/Debug/net6.0/TriangularPark.deps.json
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/bin/Debug/net6.0/TriangularPark.runtimeconfig.json
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/bin/Debug/net6.0/TriangularPark.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/bin/Debug/net6.0/TriangularPark.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/TriangularPark.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/TriangularPark.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/TriangularPark.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/TriangularPark.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/TriangularPark.sourcelink.json
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/TriangularPark.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/refint/TriangularPark.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/TriangularPark.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/TriangularPark.genruntimeconfig.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/TriangularPark/obj/Debug/net6.0/ref/TriangularPark.dll

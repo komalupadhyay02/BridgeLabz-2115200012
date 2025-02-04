@@ -1,0 +1,15 @@
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/bin/Debug/net6.0/HandShakes
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/bin/Debug/net6.0/HandShakes.deps.json
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/bin/Debug/net6.0/HandShakes.runtimeconfig.json
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/bin/Debug/net6.0/HandShakes.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/bin/Debug/net6.0/HandShakes.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/HandShakes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/HandShakes.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/HandShakes.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/HandShakes.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/HandShakes.sourcelink.json
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/HandShakes.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/refint/HandShakes.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/HandShakes.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/HandShakes.genruntimeconfig.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/HandShakes/obj/Debug/net6.0/ref/HandShakes.dll

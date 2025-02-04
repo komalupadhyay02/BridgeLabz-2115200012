@@ -1,0 +1,5 @@
+/Users/komal/Desktop/28_01_25/LEVEL1/SpringSeason/obj/Debug/net6.0/SpringSeason.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/LEVEL1/SpringSeason/obj/Debug/net6.0/SpringSeason.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/SpringSeason/obj/Debug/net6.0/SpringSeason.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/LEVEL1/SpringSeason/obj/Debug/net6.0/SpringSeason.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/SpringSeason/obj/Debug/net6.0/SpringSeason.sourcelink.json

@@ -1,0 +1,15 @@
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/bin/Debug/net6.0/LargestOfThree
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/bin/Debug/net6.0/LargestOfThree.deps.json
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/bin/Debug/net6.0/LargestOfThree.runtimeconfig.json
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/bin/Debug/net6.0/LargestOfThree.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/bin/Debug/net6.0/LargestOfThree.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/LargestOfThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/LargestOfThree.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/LargestOfThree.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/LargestOfThree.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/LargestOfThree.sourcelink.json
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/LargestOfThree.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/refint/LargestOfThree.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/LargestOfThree.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/LargestOfThree.genruntimeconfig.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/LargestOfThree/obj/Debug/net6.0/ref/LargestOfThree.dll

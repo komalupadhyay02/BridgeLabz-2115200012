@@ -1,0 +1,30 @@
+/Users/komal/Desktop/28_01_25/Level2/11/bin/Debug/net6.0/11
+/Users/komal/Desktop/28_01_25/Level2/11/bin/Debug/net6.0/11.deps.json
+/Users/komal/Desktop/28_01_25/Level2/11/bin/Debug/net6.0/11.runtimeconfig.json
+/Users/komal/Desktop/28_01_25/Level2/11/bin/Debug/net6.0/11.dll
+/Users/komal/Desktop/28_01_25/Level2/11/bin/Debug/net6.0/11.pdb
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/11.csproj.AssemblyReference.cache
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/11.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/11.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/11.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/11.dll
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/refint/11.dll
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/11.pdb
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/11.genruntimeconfig.cache
+/Users/komal/Desktop/28_01_25/Level2/11/obj/Debug/net6.0/ref/11.dll
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /bin/Debug/net6.0/11
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /bin/Debug/net6.0/11.deps.json
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /bin/Debug/net6.0/11.runtimeconfig.json
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /bin/Debug/net6.0/11.dll
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /bin/Debug/net6.0/11.pdb
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/11.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/11.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/11.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/11.sourcelink.json
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/11.dll
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/refint/11.dll
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/11.pdb
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/11.genruntimeconfig.cache
+/Users/komal/Desktop/28_01_25/Level2/Quadratic /obj/Debug/net6.0/ref/11.dll

@@ -1,0 +1,5 @@
+/Users/komal/Desktop/28_01_25/LEVEL1/CheckNumber/obj/Debug/net6.0/CheckNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/LEVEL1/CheckNumber/obj/Debug/net6.0/CheckNumber.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/CheckNumber/obj/Debug/net6.0/CheckNumber.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/LEVEL1/CheckNumber/obj/Debug/net6.0/CheckNumber.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/CheckNumber/obj/Debug/net6.0/CheckNumber.sourcelink.json

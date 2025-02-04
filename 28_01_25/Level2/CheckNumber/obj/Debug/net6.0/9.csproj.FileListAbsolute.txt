@@ -1,0 +1,15 @@
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/9.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/9.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/9.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/bin/Debug/net6.0/9
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/bin/Debug/net6.0/9.deps.json
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/bin/Debug/net6.0/9.runtimeconfig.json
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/bin/Debug/net6.0/9.dll
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/bin/Debug/net6.0/9.pdb
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/9.dll
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/refint/9.dll
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/9.pdb
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/9.genruntimeconfig.cache
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/ref/9.dll
+/Users/komal/Desktop/28_01_25/Level2/CheckNumber/obj/Debug/net6.0/9.sourcelink.json

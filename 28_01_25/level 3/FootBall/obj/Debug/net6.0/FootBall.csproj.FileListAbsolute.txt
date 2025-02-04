@@ -1,0 +1,15 @@
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/FootBall.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/FootBall.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/FootBall.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/FootBall.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/level 3/FootBall/bin/Debug/net6.0/FootBall
+/Users/komal/Desktop/28_01_25/level 3/FootBall/bin/Debug/net6.0/FootBall.deps.json
+/Users/komal/Desktop/28_01_25/level 3/FootBall/bin/Debug/net6.0/FootBall.runtimeconfig.json
+/Users/komal/Desktop/28_01_25/level 3/FootBall/bin/Debug/net6.0/FootBall.dll
+/Users/komal/Desktop/28_01_25/level 3/FootBall/bin/Debug/net6.0/FootBall.pdb
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/FootBall.dll
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/refint/FootBall.dll
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/FootBall.pdb
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/FootBall.genruntimeconfig.cache
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/ref/FootBall.dll
+/Users/komal/Desktop/28_01_25/level 3/FootBall/obj/Debug/net6.0/FootBall.sourcelink.json

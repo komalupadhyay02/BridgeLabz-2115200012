@@ -1,0 +1,15 @@
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/bin/Debug/net6.0/QuoitentReminder
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/bin/Debug/net6.0/QuoitentReminder.deps.json
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/bin/Debug/net6.0/QuoitentReminder.runtimeconfig.json
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/bin/Debug/net6.0/QuoitentReminder.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/bin/Debug/net6.0/QuoitentReminder.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/QuoitentReminder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/QuoitentReminder.AssemblyInfoInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/QuoitentReminder.AssemblyInfo.cs
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/QuoitentReminder.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/QuoitentReminder.sourcelink.json
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/QuoitentReminder.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/refint/QuoitentReminder.dll
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/QuoitentReminder.pdb
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/QuoitentReminder.genruntimeconfig.cache
+/Users/komal/Desktop/28_01_25/LEVEL1/QuoitentReminder/obj/Debug/net6.0/ref/QuoitentReminder.dll
