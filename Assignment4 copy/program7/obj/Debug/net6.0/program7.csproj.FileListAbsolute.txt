@@ -1,0 +1,15 @@
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/program7.csproj.AssemblyReference.cache
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/program7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/program7.AssemblyInfoInputs.cache
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/program7.AssemblyInfo.cs
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/program7.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/Assignment4/program7/bin/Debug/net6.0/program7
+/Users/komal/Desktop/Assignment4/program7/bin/Debug/net6.0/program7.deps.json
+/Users/komal/Desktop/Assignment4/program7/bin/Debug/net6.0/program7.runtimeconfig.json
+/Users/komal/Desktop/Assignment4/program7/bin/Debug/net6.0/program7.dll
+/Users/komal/Desktop/Assignment4/program7/bin/Debug/net6.0/program7.pdb
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/program7.dll
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/refint/program7.dll
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/program7.pdb
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/program7.genruntimeconfig.cache
+/Users/komal/Desktop/Assignment4/program7/obj/Debug/net6.0/ref/program7.dll
