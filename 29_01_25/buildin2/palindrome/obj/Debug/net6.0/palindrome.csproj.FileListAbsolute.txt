@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/palindrome.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/palindrome.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/palindrome.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/bin/Debug/net6.0/palindrome
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/bin/Debug/net6.0/palindrome.deps.json
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/bin/Debug/net6.0/palindrome.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/bin/Debug/net6.0/palindrome.dll
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/bin/Debug/net6.0/palindrome.pdb
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/palindrome.dll
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/refint/palindrome.dll
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/palindrome.pdb
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/palindrome.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/ref/palindrome.dll
+/Users/komal/Desktop/29_01_25/buildin2/palindrome/obj/Debug/net6.0/palindrome.sourcelink.json

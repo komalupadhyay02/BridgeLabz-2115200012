@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/bin/Debug/net6.0/GuessNumber
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/bin/Debug/net6.0/GuessNumber.deps.json
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/bin/Debug/net6.0/GuessNumber.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/bin/Debug/net6.0/GuessNumber.dll
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/bin/Debug/net6.0/GuessNumber.pdb
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/GuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/GuessNumber.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/GuessNumber.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/GuessNumber.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/GuessNumber.dll
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/refint/GuessNumber.dll
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/GuessNumber.pdb
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/GuessNumber.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/ref/GuessNumber.dll
+/Users/komal/Desktop/29_01_25/buildin2/GuessNumber/obj/Debug/net6.0/GuessNumber.sourcelink.json

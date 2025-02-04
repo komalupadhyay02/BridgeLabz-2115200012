@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/bin/Debug/net6.0/fibonacci
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/bin/Debug/net6.0/fibonacci.deps.json
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/bin/Debug/net6.0/fibonacci.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/bin/Debug/net6.0/fibonacci.dll
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/bin/Debug/net6.0/fibonacci.pdb
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/fibonacci.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/fibonacci.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/fibonacci.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/fibonacci.sourcelink.json
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/fibonacci.dll
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/refint/fibonacci.dll
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/fibonacci.pdb
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/fibonacci.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/buildin2/fibonacci/obj/Debug/net6.0/ref/fibonacci.dll

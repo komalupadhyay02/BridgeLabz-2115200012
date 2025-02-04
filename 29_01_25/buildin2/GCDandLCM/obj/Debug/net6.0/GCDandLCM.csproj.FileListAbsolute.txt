@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/bin/Debug/net6.0/GCDandLCM
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/bin/Debug/net6.0/GCDandLCM.deps.json
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/bin/Debug/net6.0/GCDandLCM.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/bin/Debug/net6.0/GCDandLCM.dll
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/bin/Debug/net6.0/GCDandLCM.pdb
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/GCDandLCM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/GCDandLCM.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/GCDandLCM.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/GCDandLCM.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/GCDandLCM.dll
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/refint/GCDandLCM.dll
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/GCDandLCM.pdb
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/GCDandLCM.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/ref/GCDandLCM.dll
+/Users/komal/Desktop/29_01_25/buildin2/GCDandLCM/obj/Debug/net6.0/GCDandLCM.sourcelink.json

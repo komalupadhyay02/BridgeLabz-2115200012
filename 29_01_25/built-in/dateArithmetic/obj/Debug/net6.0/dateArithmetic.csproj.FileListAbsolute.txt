@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/bin/Debug/net6.0/dateArithmetic
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/bin/Debug/net6.0/dateArithmetic.deps.json
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/bin/Debug/net6.0/dateArithmetic.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/bin/Debug/net6.0/dateArithmetic.dll
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/bin/Debug/net6.0/dateArithmetic.pdb
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/dateArithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/dateArithmetic.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/dateArithmetic.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/dateArithmetic.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/dateArithmetic.dll
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/refint/dateArithmetic.dll
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/dateArithmetic.pdb
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/dateArithmetic.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/ref/dateArithmetic.dll
+/Users/komal/Desktop/29_01_25/built-in/dateArithmetic/obj/Debug/net6.0/dateArithmetic.sourcelink.json

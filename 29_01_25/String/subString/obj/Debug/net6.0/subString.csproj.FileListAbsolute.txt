@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/String/subString/bin/Debug/net6.0/subString
+/Users/komal/Desktop/29_01_25/String/subString/bin/Debug/net6.0/subString.deps.json
+/Users/komal/Desktop/29_01_25/String/subString/bin/Debug/net6.0/subString.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/String/subString/bin/Debug/net6.0/subString.dll
+/Users/komal/Desktop/29_01_25/String/subString/bin/Debug/net6.0/subString.pdb
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/subString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/subString.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/subString.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/subString.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/subString.sourcelink.json
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/subString.dll
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/refint/subString.dll
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/subString.pdb
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/subString.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/String/subString/obj/Debug/net6.0/ref/subString.dll

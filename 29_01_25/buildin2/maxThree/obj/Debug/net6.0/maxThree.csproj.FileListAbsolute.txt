@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/maxThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/maxThree.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/maxThree.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/maxThree.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/bin/Debug/net6.0/maxThree
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/bin/Debug/net6.0/maxThree.deps.json
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/bin/Debug/net6.0/maxThree.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/bin/Debug/net6.0/maxThree.dll
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/bin/Debug/net6.0/maxThree.pdb
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/maxThree.dll
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/refint/maxThree.dll
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/maxThree.pdb
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/maxThree.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/ref/maxThree.dll
+/Users/komal/Desktop/29_01_25/buildin2/maxThree/obj/Debug/net6.0/maxThree.sourcelink.json

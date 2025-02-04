@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/bin/Debug/net6.0/FahrenheitToCelcius
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/bin/Debug/net6.0/FahrenheitToCelcius.deps.json
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/bin/Debug/net6.0/FahrenheitToCelcius.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/bin/Debug/net6.0/FahrenheitToCelcius.dll
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/bin/Debug/net6.0/FahrenheitToCelcius.pdb
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/FahrenheitToCelcius.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/FahrenheitToCelcius.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/FahrenheitToCelcius.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/FahrenheitToCelcius.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/FahrenheitToCelcius.dll
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/refint/FahrenheitToCelcius.dll
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/FahrenheitToCelcius.pdb
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/FahrenheitToCelcius.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/ref/FahrenheitToCelcius.dll
+/Users/komal/Desktop/29_01_25/buildin2/FahrenheitToCelcius/obj/Debug/net6.0/FahrenheitToCelcius.sourcelink.json

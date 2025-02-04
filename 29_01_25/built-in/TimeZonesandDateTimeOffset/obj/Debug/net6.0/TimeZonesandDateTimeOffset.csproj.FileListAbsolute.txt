@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/bin/Debug/net6.0/TimeZonesandDateTimeOffset
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/bin/Debug/net6.0/TimeZonesandDateTimeOffset.deps.json
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/bin/Debug/net6.0/TimeZonesandDateTimeOffset.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/bin/Debug/net6.0/TimeZonesandDateTimeOffset.dll
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/bin/Debug/net6.0/TimeZonesandDateTimeOffset.pdb
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/TimeZonesandDateTimeOffset.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/TimeZonesandDateTimeOffset.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/TimeZonesandDateTimeOffset.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/TimeZonesandDateTimeOffset.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/TimeZonesandDateTimeOffset.dll
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/refint/TimeZonesandDateTimeOffset.dll
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/TimeZonesandDateTimeOffset.pdb
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/TimeZonesandDateTimeOffset.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/ref/TimeZonesandDateTimeOffset.dll
+/Users/komal/Desktop/29_01_25/built-in/TimeZonesandDateTimeOffset/obj/Debug/net6.0/TimeZonesandDateTimeOffset.sourcelink.json

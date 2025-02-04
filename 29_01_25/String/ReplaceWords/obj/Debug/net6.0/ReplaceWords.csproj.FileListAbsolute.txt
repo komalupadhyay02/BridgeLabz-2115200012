@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/bin/Debug/net6.0/ReplaceWords
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/bin/Debug/net6.0/ReplaceWords.deps.json
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/bin/Debug/net6.0/ReplaceWords.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/bin/Debug/net6.0/ReplaceWords.dll
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/bin/Debug/net6.0/ReplaceWords.pdb
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/ReplaceWords.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/ReplaceWords.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/ReplaceWords.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/ReplaceWords.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/ReplaceWords.sourcelink.json
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/ReplaceWords.dll
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/refint/ReplaceWords.dll
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/ReplaceWords.pdb
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/ReplaceWords.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/String/ReplaceWords/obj/Debug/net6.0/ref/ReplaceWords.dll

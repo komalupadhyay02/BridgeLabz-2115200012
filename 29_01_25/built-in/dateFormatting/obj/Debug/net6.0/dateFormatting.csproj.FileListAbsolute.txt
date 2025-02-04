@@ -1,0 +1,15 @@
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/bin/Debug/net6.0/dateFormatting
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/bin/Debug/net6.0/dateFormatting.deps.json
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/bin/Debug/net6.0/dateFormatting.runtimeconfig.json
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/bin/Debug/net6.0/dateFormatting.dll
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/bin/Debug/net6.0/dateFormatting.pdb
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/dateFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/dateFormatting.AssemblyInfoInputs.cache
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/dateFormatting.AssemblyInfo.cs
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/dateFormatting.csproj.CoreCompileInputs.cache
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/dateFormatting.dll
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/refint/dateFormatting.dll
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/dateFormatting.pdb
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/dateFormatting.genruntimeconfig.cache
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/ref/dateFormatting.dll
+/Users/komal/Desktop/29_01_25/built-in/dateFormatting/obj/Debug/net6.0/dateFormatting.sourcelink.json
