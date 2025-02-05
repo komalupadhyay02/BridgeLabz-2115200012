@@ -1,0 +1,15 @@
+/Users/komal/Review2/task2/obj/Debug/net8.0/task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/Review2/task2/obj/Debug/net8.0/task2.AssemblyInfoInputs.cache
+/Users/komal/Review2/task2/obj/Debug/net8.0/task2.AssemblyInfo.cs
+/Users/komal/Review2/task2/obj/Debug/net8.0/task2.csproj.CoreCompileInputs.cache
+/Users/komal/Review2/task2/obj/Debug/net8.0/task2.sourcelink.json
+/Users/komal/Review2/task2/bin/Debug/net8.0/task2
+/Users/komal/Review2/task2/bin/Debug/net8.0/task2.deps.json
+/Users/komal/Review2/task2/bin/Debug/net8.0/task2.runtimeconfig.json
+/Users/komal/Review2/task2/bin/Debug/net8.0/task2.dll
+/Users/komal/Review2/task2/bin/Debug/net8.0/task2.pdb
+/Users/komal/Review2/task2/obj/Debug/net8.0/task2.dll
+/Users/komal/Review2/task2/obj/Debug/net8.0/refint/task2.dll
+/Users/komal/Review2/task2/obj/Debug/net8.0/task2.pdb
+/Users/komal/Review2/task2/obj/Debug/net8.0/task2.genruntimeconfig.cache
+/Users/komal/Review2/task2/obj/Debug/net8.0/ref/task2.dll
