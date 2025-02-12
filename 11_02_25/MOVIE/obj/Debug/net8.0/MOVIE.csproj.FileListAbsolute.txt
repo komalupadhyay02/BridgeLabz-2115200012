@@ -1,0 +1,15 @@
+/Users/komal/11_02_25/MOVIE/bin/Debug/net8.0/MOVIE
+/Users/komal/11_02_25/MOVIE/bin/Debug/net8.0/MOVIE.deps.json
+/Users/komal/11_02_25/MOVIE/bin/Debug/net8.0/MOVIE.runtimeconfig.json
+/Users/komal/11_02_25/MOVIE/bin/Debug/net8.0/MOVIE.dll
+/Users/komal/11_02_25/MOVIE/bin/Debug/net8.0/MOVIE.pdb
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/MOVIE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/MOVIE.AssemblyInfoInputs.cache
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/MOVIE.AssemblyInfo.cs
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/MOVIE.csproj.CoreCompileInputs.cache
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/MOVIE.sourcelink.json
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/MOVIE.dll
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/refint/MOVIE.dll
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/MOVIE.pdb
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/MOVIE.genruntimeconfig.cache
+/Users/komal/11_02_25/MOVIE/obj/Debug/net8.0/ref/MOVIE.dll

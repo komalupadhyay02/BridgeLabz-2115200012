@@ -1,0 +1,15 @@
+/Users/komal/11_02_25/INVENTORY/bin/Debug/net8.0/INVENTORY
+/Users/komal/11_02_25/INVENTORY/bin/Debug/net8.0/INVENTORY.deps.json
+/Users/komal/11_02_25/INVENTORY/bin/Debug/net8.0/INVENTORY.runtimeconfig.json
+/Users/komal/11_02_25/INVENTORY/bin/Debug/net8.0/INVENTORY.dll
+/Users/komal/11_02_25/INVENTORY/bin/Debug/net8.0/INVENTORY.pdb
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/INVENTORY.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/INVENTORY.AssemblyInfoInputs.cache
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/INVENTORY.AssemblyInfo.cs
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/INVENTORY.csproj.CoreCompileInputs.cache
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/INVENTORY.sourcelink.json
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/INVENTORY.dll
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/refint/INVENTORY.dll
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/INVENTORY.pdb
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/INVENTORY.genruntimeconfig.cache
+/Users/komal/11_02_25/INVENTORY/obj/Debug/net8.0/ref/INVENTORY.dll
