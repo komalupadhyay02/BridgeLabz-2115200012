@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UnbZLhplYmLL55sID23wx5jJ9UHWG4GHPC8K9V6Cvcw=",
+  "Source": "NthLargest",
+  "BasePath": "_content/NthLargest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
