@@ -1,0 +1,15 @@
+/Users/komal/14_02_25/InsertionSort/bin/Debug/net8.0/InsertionSort
+/Users/komal/14_02_25/InsertionSort/bin/Debug/net8.0/InsertionSort.deps.json
+/Users/komal/14_02_25/InsertionSort/bin/Debug/net8.0/InsertionSort.runtimeconfig.json
+/Users/komal/14_02_25/InsertionSort/bin/Debug/net8.0/InsertionSort.dll
+/Users/komal/14_02_25/InsertionSort/bin/Debug/net8.0/InsertionSort.pdb
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/InsertionSort.AssemblyInfoInputs.cache
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/InsertionSort.AssemblyInfo.cs
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/InsertionSort.csproj.CoreCompileInputs.cache
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/InsertionSort.sourcelink.json
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/InsertionSort.dll
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/refint/InsertionSort.dll
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/InsertionSort.pdb
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/InsertionSort.genruntimeconfig.cache
+/Users/komal/14_02_25/InsertionSort/obj/Debug/net8.0/ref/InsertionSort.dll

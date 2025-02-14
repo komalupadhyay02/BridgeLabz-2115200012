@@ -1,0 +1,15 @@
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/MERGESORT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/MERGESORT.AssemblyInfoInputs.cache
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/MERGESORT.AssemblyInfo.cs
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/MERGESORT.csproj.CoreCompileInputs.cache
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/MERGESORT.sourcelink.json
+/Users/komal/14_02_25/MERGESORT/bin/Debug/net8.0/MERGESORT
+/Users/komal/14_02_25/MERGESORT/bin/Debug/net8.0/MERGESORT.deps.json
+/Users/komal/14_02_25/MERGESORT/bin/Debug/net8.0/MERGESORT.runtimeconfig.json
+/Users/komal/14_02_25/MERGESORT/bin/Debug/net8.0/MERGESORT.dll
+/Users/komal/14_02_25/MERGESORT/bin/Debug/net8.0/MERGESORT.pdb
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/MERGESORT.dll
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/refint/MERGESORT.dll
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/MERGESORT.pdb
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/MERGESORT.genruntimeconfig.cache
+/Users/komal/14_02_25/MERGESORT/obj/Debug/net8.0/ref/MERGESORT.dll

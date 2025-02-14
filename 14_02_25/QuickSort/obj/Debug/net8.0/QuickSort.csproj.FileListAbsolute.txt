@@ -1,0 +1,15 @@
+/Users/komal/14_02_25/QuickSort/bin/Debug/net8.0/QuickSort
+/Users/komal/14_02_25/QuickSort/bin/Debug/net8.0/QuickSort.deps.json
+/Users/komal/14_02_25/QuickSort/bin/Debug/net8.0/QuickSort.runtimeconfig.json
+/Users/komal/14_02_25/QuickSort/bin/Debug/net8.0/QuickSort.dll
+/Users/komal/14_02_25/QuickSort/bin/Debug/net8.0/QuickSort.pdb
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/QuickSort.AssemblyInfoInputs.cache
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/QuickSort.AssemblyInfo.cs
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/QuickSort.csproj.CoreCompileInputs.cache
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/QuickSort.sourcelink.json
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/QuickSort.dll
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/refint/QuickSort.dll
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/QuickSort.pdb
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/QuickSort.genruntimeconfig.cache
+/Users/komal/14_02_25/QuickSort/obj/Debug/net8.0/ref/QuickSort.dll

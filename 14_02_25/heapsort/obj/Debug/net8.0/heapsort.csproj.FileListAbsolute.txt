@@ -1,0 +1,15 @@
+/Users/komal/14_02_25/heapsort/bin/Debug/net8.0/heapsort
+/Users/komal/14_02_25/heapsort/bin/Debug/net8.0/heapsort.deps.json
+/Users/komal/14_02_25/heapsort/bin/Debug/net8.0/heapsort.runtimeconfig.json
+/Users/komal/14_02_25/heapsort/bin/Debug/net8.0/heapsort.dll
+/Users/komal/14_02_25/heapsort/bin/Debug/net8.0/heapsort.pdb
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/heapsort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/heapsort.AssemblyInfoInputs.cache
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/heapsort.AssemblyInfo.cs
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/heapsort.csproj.CoreCompileInputs.cache
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/heapsort.sourcelink.json
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/heapsort.dll
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/refint/heapsort.dll
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/heapsort.pdb
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/heapsort.genruntimeconfig.cache
+/Users/komal/14_02_25/heapsort/obj/Debug/net8.0/ref/heapsort.dll

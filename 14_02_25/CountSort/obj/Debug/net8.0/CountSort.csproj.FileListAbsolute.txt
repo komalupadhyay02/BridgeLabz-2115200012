@@ -1,0 +1,15 @@
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/CountSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/CountSort.AssemblyInfoInputs.cache
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/CountSort.AssemblyInfo.cs
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/CountSort.csproj.CoreCompileInputs.cache
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/CountSort.sourcelink.json
+/Users/komal/14_02_25/CountSort/bin/Debug/net8.0/CountSort
+/Users/komal/14_02_25/CountSort/bin/Debug/net8.0/CountSort.deps.json
+/Users/komal/14_02_25/CountSort/bin/Debug/net8.0/CountSort.runtimeconfig.json
+/Users/komal/14_02_25/CountSort/bin/Debug/net8.0/CountSort.dll
+/Users/komal/14_02_25/CountSort/bin/Debug/net8.0/CountSort.pdb
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/CountSort.dll
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/refint/CountSort.dll
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/CountSort.pdb
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/CountSort.genruntimeconfig.cache
+/Users/komal/14_02_25/CountSort/obj/Debug/net8.0/ref/CountSort.dll
