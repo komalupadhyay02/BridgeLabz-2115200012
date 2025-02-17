@@ -1,0 +1,15 @@
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/Duplicate.AssemblyInfoInputs.cache
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/Duplicate.AssemblyInfo.cs
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/Duplicate.csproj.CoreCompileInputs.cache
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/Duplicate.sourcelink.json
+/Users/komal/15_02_25/Duplicate/bin/Debug/net8.0/Duplicate
+/Users/komal/15_02_25/Duplicate/bin/Debug/net8.0/Duplicate.deps.json
+/Users/komal/15_02_25/Duplicate/bin/Debug/net8.0/Duplicate.runtimeconfig.json
+/Users/komal/15_02_25/Duplicate/bin/Debug/net8.0/Duplicate.dll
+/Users/komal/15_02_25/Duplicate/bin/Debug/net8.0/Duplicate.pdb
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/Duplicate.dll
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/refint/Duplicate.dll
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/Duplicate.pdb
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/Duplicate.genruntimeconfig.cache
+/Users/komal/15_02_25/Duplicate/obj/Debug/net8.0/ref/Duplicate.dll

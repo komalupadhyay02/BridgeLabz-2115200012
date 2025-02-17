@@ -1,0 +1,15 @@
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/ComparePerformance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/ComparePerformance.AssemblyInfoInputs.cache
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/ComparePerformance.AssemblyInfo.cs
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/ComparePerformance.csproj.CoreCompileInputs.cache
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/ComparePerformance.sourcelink.json
+/Users/komal/15_02_25/ComparePerformance/bin/Debug/net8.0/ComparePerformance
+/Users/komal/15_02_25/ComparePerformance/bin/Debug/net8.0/ComparePerformance.deps.json
+/Users/komal/15_02_25/ComparePerformance/bin/Debug/net8.0/ComparePerformance.runtimeconfig.json
+/Users/komal/15_02_25/ComparePerformance/bin/Debug/net8.0/ComparePerformance.dll
+/Users/komal/15_02_25/ComparePerformance/bin/Debug/net8.0/ComparePerformance.pdb
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/ComparePerformance.dll
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/refint/ComparePerformance.dll
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/ComparePerformance.pdb
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/ComparePerformance.genruntimeconfig.cache
+/Users/komal/15_02_25/ComparePerformance/obj/Debug/net8.0/ref/ComparePerformance.dll

@@ -1,0 +1,15 @@
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/ReadFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/ReadFile.AssemblyInfoInputs.cache
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/ReadFile.AssemblyInfo.cs
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/ReadFile.csproj.CoreCompileInputs.cache
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/ReadFile.sourcelink.json
+/Users/komal/15_02_25/ReadFile/bin/Debug/net8.0/ReadFile
+/Users/komal/15_02_25/ReadFile/bin/Debug/net8.0/ReadFile.deps.json
+/Users/komal/15_02_25/ReadFile/bin/Debug/net8.0/ReadFile.runtimeconfig.json
+/Users/komal/15_02_25/ReadFile/bin/Debug/net8.0/ReadFile.dll
+/Users/komal/15_02_25/ReadFile/bin/Debug/net8.0/ReadFile.pdb
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/ReadFile.dll
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/refint/ReadFile.dll
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/ReadFile.pdb
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/ReadFile.genruntimeconfig.cache
+/Users/komal/15_02_25/ReadFile/obj/Debug/net8.0/ref/ReadFile.dll

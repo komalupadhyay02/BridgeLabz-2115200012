@@ -1,0 +1,15 @@
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/UserInputToFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/UserInputToFile.AssemblyInfoInputs.cache
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/UserInputToFile.AssemblyInfo.cs
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/UserInputToFile.csproj.CoreCompileInputs.cache
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/UserInputToFile.sourcelink.json
+/Users/komal/15_02_25/UserInputToFile/bin/Debug/net8.0/UserInputToFile
+/Users/komal/15_02_25/UserInputToFile/bin/Debug/net8.0/UserInputToFile.deps.json
+/Users/komal/15_02_25/UserInputToFile/bin/Debug/net8.0/UserInputToFile.runtimeconfig.json
+/Users/komal/15_02_25/UserInputToFile/bin/Debug/net8.0/UserInputToFile.dll
+/Users/komal/15_02_25/UserInputToFile/bin/Debug/net8.0/UserInputToFile.pdb
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/UserInputToFile.dll
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/refint/UserInputToFile.dll
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/UserInputToFile.pdb
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/UserInputToFile.genruntimeconfig.cache
+/Users/komal/15_02_25/UserInputToFile/obj/Debug/net8.0/ref/UserInputToFile.dll

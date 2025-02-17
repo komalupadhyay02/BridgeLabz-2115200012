@@ -1,0 +1,15 @@
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/ConCat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/ConCat.AssemblyInfoInputs.cache
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/ConCat.AssemblyInfo.cs
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/ConCat.csproj.CoreCompileInputs.cache
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/ConCat.sourcelink.json
+/Users/komal/15_02_25/ConCat/bin/Debug/net8.0/ConCat
+/Users/komal/15_02_25/ConCat/bin/Debug/net8.0/ConCat.deps.json
+/Users/komal/15_02_25/ConCat/bin/Debug/net8.0/ConCat.runtimeconfig.json
+/Users/komal/15_02_25/ConCat/bin/Debug/net8.0/ConCat.dll
+/Users/komal/15_02_25/ConCat/bin/Debug/net8.0/ConCat.pdb
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/ConCat.dll
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/refint/ConCat.dll
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/ConCat.pdb
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/ConCat.genruntimeconfig.cache
+/Users/komal/15_02_25/ConCat/obj/Debug/net8.0/ref/ConCat.dll
