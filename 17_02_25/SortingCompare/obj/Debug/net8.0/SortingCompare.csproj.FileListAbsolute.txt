@@ -1,0 +1,15 @@
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/SortingCompare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/SortingCompare.AssemblyInfoInputs.cache
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/SortingCompare.AssemblyInfo.cs
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/SortingCompare.csproj.CoreCompileInputs.cache
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/SortingCompare.sourcelink.json
+/Users/komal/17_02_25/SortingCompare/bin/Debug/net8.0/SortingCompare
+/Users/komal/17_02_25/SortingCompare/bin/Debug/net8.0/SortingCompare.deps.json
+/Users/komal/17_02_25/SortingCompare/bin/Debug/net8.0/SortingCompare.runtimeconfig.json
+/Users/komal/17_02_25/SortingCompare/bin/Debug/net8.0/SortingCompare.dll
+/Users/komal/17_02_25/SortingCompare/bin/Debug/net8.0/SortingCompare.pdb
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/SortingCompare.dll
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/refint/SortingCompare.dll
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/SortingCompare.pdb
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/SortingCompare.genruntimeconfig.cache
+/Users/komal/17_02_25/SortingCompare/obj/Debug/net8.0/ref/SortingCompare.dll

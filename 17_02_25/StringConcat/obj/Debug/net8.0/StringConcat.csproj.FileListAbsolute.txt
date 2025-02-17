@@ -1,0 +1,15 @@
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/StringConcat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/StringConcat.AssemblyInfoInputs.cache
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/StringConcat.AssemblyInfo.cs
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/StringConcat.csproj.CoreCompileInputs.cache
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/StringConcat.sourcelink.json
+/Users/komal/17_02_25/StringConcat/bin/Debug/net8.0/StringConcat
+/Users/komal/17_02_25/StringConcat/bin/Debug/net8.0/StringConcat.deps.json
+/Users/komal/17_02_25/StringConcat/bin/Debug/net8.0/StringConcat.runtimeconfig.json
+/Users/komal/17_02_25/StringConcat/bin/Debug/net8.0/StringConcat.dll
+/Users/komal/17_02_25/StringConcat/bin/Debug/net8.0/StringConcat.pdb
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/StringConcat.dll
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/refint/StringConcat.dll
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/StringConcat.pdb
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/StringConcat.genruntimeconfig.cache
+/Users/komal/17_02_25/StringConcat/obj/Debug/net8.0/ref/StringConcat.dll

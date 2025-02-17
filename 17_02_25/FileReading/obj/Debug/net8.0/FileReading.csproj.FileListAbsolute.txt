@@ -1,0 +1,15 @@
+/Users/komal/17_02_25/FileReading/bin/Debug/net8.0/FileReading
+/Users/komal/17_02_25/FileReading/bin/Debug/net8.0/FileReading.deps.json
+/Users/komal/17_02_25/FileReading/bin/Debug/net8.0/FileReading.runtimeconfig.json
+/Users/komal/17_02_25/FileReading/bin/Debug/net8.0/FileReading.dll
+/Users/komal/17_02_25/FileReading/bin/Debug/net8.0/FileReading.pdb
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/FileReading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/FileReading.AssemblyInfoInputs.cache
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/FileReading.AssemblyInfo.cs
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/FileReading.csproj.CoreCompileInputs.cache
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/FileReading.sourcelink.json
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/FileReading.dll
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/refint/FileReading.dll
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/FileReading.pdb
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/FileReading.genruntimeconfig.cache
+/Users/komal/17_02_25/FileReading/obj/Debug/net8.0/ref/FileReading.dll

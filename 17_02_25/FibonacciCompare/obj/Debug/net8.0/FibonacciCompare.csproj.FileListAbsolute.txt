@@ -1,0 +1,15 @@
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/FibonacciCompare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/FibonacciCompare.AssemblyInfoInputs.cache
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/FibonacciCompare.AssemblyInfo.cs
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/FibonacciCompare.csproj.CoreCompileInputs.cache
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/FibonacciCompare.sourcelink.json
+/Users/komal/17_02_25/FibonacciCompare/bin/Debug/net8.0/FibonacciCompare
+/Users/komal/17_02_25/FibonacciCompare/bin/Debug/net8.0/FibonacciCompare.deps.json
+/Users/komal/17_02_25/FibonacciCompare/bin/Debug/net8.0/FibonacciCompare.runtimeconfig.json
+/Users/komal/17_02_25/FibonacciCompare/bin/Debug/net8.0/FibonacciCompare.dll
+/Users/komal/17_02_25/FibonacciCompare/bin/Debug/net8.0/FibonacciCompare.pdb
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/FibonacciCompare.dll
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/refint/FibonacciCompare.dll
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/FibonacciCompare.pdb
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/FibonacciCompare.genruntimeconfig.cache
+/Users/komal/17_02_25/FibonacciCompare/obj/Debug/net8.0/ref/FibonacciCompare.dll
