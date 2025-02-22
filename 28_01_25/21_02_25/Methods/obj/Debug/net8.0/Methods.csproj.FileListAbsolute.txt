@@ -1,0 +1,15 @@
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/Methods.AssemblyInfoInputs.cache
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/Methods.AssemblyInfo.cs
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/Methods.csproj.CoreCompileInputs.cache
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/Methods.sourcelink.json
+/Users/komal/21_02_25/Methods/bin/Debug/net8.0/Methods
+/Users/komal/21_02_25/Methods/bin/Debug/net8.0/Methods.deps.json
+/Users/komal/21_02_25/Methods/bin/Debug/net8.0/Methods.runtimeconfig.json
+/Users/komal/21_02_25/Methods/bin/Debug/net8.0/Methods.dll
+/Users/komal/21_02_25/Methods/bin/Debug/net8.0/Methods.pdb
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/Methods.dll
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/refint/Methods.dll
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/Methods.pdb
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/Methods.genruntimeconfig.cache
+/Users/komal/21_02_25/Methods/obj/Debug/net8.0/ref/Methods.dll

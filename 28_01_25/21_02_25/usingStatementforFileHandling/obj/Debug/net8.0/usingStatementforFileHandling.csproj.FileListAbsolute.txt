@@ -1,0 +1,15 @@
+/Users/komal/21_02_25/usingStatementforFileHandling/bin/Debug/net8.0/usingStatementforFileHandling
+/Users/komal/21_02_25/usingStatementforFileHandling/bin/Debug/net8.0/usingStatementforFileHandling.deps.json
+/Users/komal/21_02_25/usingStatementforFileHandling/bin/Debug/net8.0/usingStatementforFileHandling.runtimeconfig.json
+/Users/komal/21_02_25/usingStatementforFileHandling/bin/Debug/net8.0/usingStatementforFileHandling.dll
+/Users/komal/21_02_25/usingStatementforFileHandling/bin/Debug/net8.0/usingStatementforFileHandling.pdb
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/usingStatementforFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/usingStatementforFileHandling.AssemblyInfoInputs.cache
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/usingStatementforFileHandling.AssemblyInfo.cs
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/usingStatementforFileHandling.csproj.CoreCompileInputs.cache
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/usingStatementforFileHandling.sourcelink.json
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/usingStatementforFileHandling.dll
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/refint/usingStatementforFileHandling.dll
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/usingStatementforFileHandling.pdb
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/usingStatementforFileHandling.genruntimeconfig.cache
+/Users/komal/21_02_25/usingStatementforFileHandling/obj/Debug/net8.0/ref/usingStatementforFileHandling.dll

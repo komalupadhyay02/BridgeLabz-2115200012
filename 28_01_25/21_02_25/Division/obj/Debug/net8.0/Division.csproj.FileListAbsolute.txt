@@ -1,0 +1,15 @@
+/Users/komal/21_02_25/Division/bin/Debug/net8.0/Division
+/Users/komal/21_02_25/Division/bin/Debug/net8.0/Division.deps.json
+/Users/komal/21_02_25/Division/bin/Debug/net8.0/Division.runtimeconfig.json
+/Users/komal/21_02_25/Division/bin/Debug/net8.0/Division.dll
+/Users/komal/21_02_25/Division/bin/Debug/net8.0/Division.pdb
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/Division.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/Division.AssemblyInfoInputs.cache
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/Division.AssemblyInfo.cs
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/Division.csproj.CoreCompileInputs.cache
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/Division.sourcelink.json
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/Division.dll
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/refint/Division.dll
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/Division.pdb
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/Division.genruntimeconfig.cache
+/Users/komal/21_02_25/Division/obj/Debug/net8.0/ref/Division.dll

@@ -1,0 +1,15 @@
+/Users/komal/21_02_25/finally/bin/Debug/net8.0/finally
+/Users/komal/21_02_25/finally/bin/Debug/net8.0/finally.deps.json
+/Users/komal/21_02_25/finally/bin/Debug/net8.0/finally.runtimeconfig.json
+/Users/komal/21_02_25/finally/bin/Debug/net8.0/finally.dll
+/Users/komal/21_02_25/finally/bin/Debug/net8.0/finally.pdb
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/finally.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/finally.AssemblyInfoInputs.cache
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/finally.AssemblyInfo.cs
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/finally.csproj.CoreCompileInputs.cache
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/finally.sourcelink.json
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/finally.dll
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/refint/finally.dll
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/finally.pdb
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/finally.genruntimeconfig.cache
+/Users/komal/21_02_25/finally/obj/Debug/net8.0/ref/finally.dll

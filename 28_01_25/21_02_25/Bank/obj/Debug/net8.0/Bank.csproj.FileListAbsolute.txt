@@ -1,0 +1,15 @@
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/Bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/Bank.AssemblyInfoInputs.cache
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/Bank.AssemblyInfo.cs
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/Bank.csproj.CoreCompileInputs.cache
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/Bank.sourcelink.json
+/Users/komal/21_02_25/Bank/bin/Debug/net8.0/Bank
+/Users/komal/21_02_25/Bank/bin/Debug/net8.0/Bank.deps.json
+/Users/komal/21_02_25/Bank/bin/Debug/net8.0/Bank.runtimeconfig.json
+/Users/komal/21_02_25/Bank/bin/Debug/net8.0/Bank.dll
+/Users/komal/21_02_25/Bank/bin/Debug/net8.0/Bank.pdb
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/Bank.dll
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/refint/Bank.dll
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/Bank.pdb
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/Bank.genruntimeconfig.cache
+/Users/komal/21_02_25/Bank/obj/Debug/net8.0/ref/Bank.dll

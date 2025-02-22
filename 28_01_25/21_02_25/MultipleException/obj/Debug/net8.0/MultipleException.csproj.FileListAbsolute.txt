@@ -1,0 +1,15 @@
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/MultipleException.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/MultipleException.AssemblyInfoInputs.cache
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/MultipleException.AssemblyInfo.cs
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/MultipleException.csproj.CoreCompileInputs.cache
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/MultipleException.sourcelink.json
+/Users/komal/21_02_25/MultipleException/bin/Debug/net8.0/MultipleException
+/Users/komal/21_02_25/MultipleException/bin/Debug/net8.0/MultipleException.deps.json
+/Users/komal/21_02_25/MultipleException/bin/Debug/net8.0/MultipleException.runtimeconfig.json
+/Users/komal/21_02_25/MultipleException/bin/Debug/net8.0/MultipleException.dll
+/Users/komal/21_02_25/MultipleException/bin/Debug/net8.0/MultipleException.pdb
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/MultipleException.dll
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/refint/MultipleException.dll
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/MultipleException.pdb
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/MultipleException.genruntimeconfig.cache
+/Users/komal/21_02_25/MultipleException/obj/Debug/net8.0/ref/MultipleException.dll

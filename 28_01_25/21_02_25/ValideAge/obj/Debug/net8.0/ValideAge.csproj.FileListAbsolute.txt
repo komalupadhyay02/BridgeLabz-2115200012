@@ -1,0 +1,15 @@
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/ValideAge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/ValideAge.AssemblyInfoInputs.cache
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/ValideAge.AssemblyInfo.cs
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/ValideAge.csproj.CoreCompileInputs.cache
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/ValideAge.sourcelink.json
+/Users/komal/21_02_25/ValideAge/bin/Debug/net8.0/ValideAge
+/Users/komal/21_02_25/ValideAge/bin/Debug/net8.0/ValideAge.deps.json
+/Users/komal/21_02_25/ValideAge/bin/Debug/net8.0/ValideAge.runtimeconfig.json
+/Users/komal/21_02_25/ValideAge/bin/Debug/net8.0/ValideAge.dll
+/Users/komal/21_02_25/ValideAge/bin/Debug/net8.0/ValideAge.pdb
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/ValideAge.dll
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/refint/ValideAge.dll
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/ValideAge.pdb
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/ValideAge.genruntimeconfig.cache
+/Users/komal/21_02_25/ValideAge/obj/Debug/net8.0/ref/ValideAge.dll
