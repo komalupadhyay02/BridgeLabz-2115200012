@@ -1,0 +1,15 @@
+/Users/komal/22_02_25(regex)/Licence/bin/Debug/net8.0/Licence
+/Users/komal/22_02_25(regex)/Licence/bin/Debug/net8.0/Licence.deps.json
+/Users/komal/22_02_25(regex)/Licence/bin/Debug/net8.0/Licence.runtimeconfig.json
+/Users/komal/22_02_25(regex)/Licence/bin/Debug/net8.0/Licence.dll
+/Users/komal/22_02_25(regex)/Licence/bin/Debug/net8.0/Licence.pdb
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/Licence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/Licence.AssemblyInfoInputs.cache
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/Licence.AssemblyInfo.cs
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/Licence.csproj.CoreCompileInputs.cache
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/Licence.sourcelink.json
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/Licence.dll
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/refint/Licence.dll
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/Licence.pdb
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/Licence.genruntimeconfig.cache
+/Users/komal/22_02_25(regex)/Licence/obj/Debug/net8.0/ref/Licence.dll

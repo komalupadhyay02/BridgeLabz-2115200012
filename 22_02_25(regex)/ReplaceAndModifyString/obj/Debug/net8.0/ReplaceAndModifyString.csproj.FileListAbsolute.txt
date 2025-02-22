@@ -1,0 +1,15 @@
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/bin/Debug/net8.0/ReplaceAndModifyString
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/bin/Debug/net8.0/ReplaceAndModifyString.deps.json
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/bin/Debug/net8.0/ReplaceAndModifyString.runtimeconfig.json
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/bin/Debug/net8.0/ReplaceAndModifyString.dll
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/bin/Debug/net8.0/ReplaceAndModifyString.pdb
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/ReplaceAndModifyString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/ReplaceAndModifyString.AssemblyInfoInputs.cache
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/ReplaceAndModifyString.AssemblyInfo.cs
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/ReplaceAndModifyString.csproj.CoreCompileInputs.cache
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/ReplaceAndModifyString.sourcelink.json
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/ReplaceAndModifyString.dll
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/refint/ReplaceAndModifyString.dll
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/ReplaceAndModifyString.pdb
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/ReplaceAndModifyString.genruntimeconfig.cache
+/Users/komal/22_02_25(regex)/ReplaceAndModifyString/obj/Debug/net8.0/ref/ReplaceAndModifyString.dll

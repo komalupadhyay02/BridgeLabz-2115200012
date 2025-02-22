@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReplaceAndModifyString/1.0.0": {
+        "runtime": {
+          "ReplaceAndModifyString.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReplaceAndModifyString/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
