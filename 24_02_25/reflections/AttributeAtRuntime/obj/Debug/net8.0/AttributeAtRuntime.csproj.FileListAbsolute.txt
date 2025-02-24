@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/AttributeAtRuntime.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/AttributeAtRuntime.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/AttributeAtRuntime.AssemblyInfo.cs
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/AttributeAtRuntime.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/AttributeAtRuntime.sourcelink.json
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/bin/Debug/net8.0/AttributeAtRuntime
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/bin/Debug/net8.0/AttributeAtRuntime.deps.json
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/bin/Debug/net8.0/AttributeAtRuntime.runtimeconfig.json
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/bin/Debug/net8.0/AttributeAtRuntime.dll
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/bin/Debug/net8.0/AttributeAtRuntime.pdb
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/AttributeAtRuntime.dll
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/refint/AttributeAtRuntime.dll
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/AttributeAtRuntime.pdb
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/AttributeAtRuntime.genruntimeconfig.cache
+/Users/komal/24_02_25/reflections/AttributeAtRuntime/obj/Debug/net8.0/ref/AttributeAtRuntime.dll

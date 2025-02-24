@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/RepeatableAttribute/bin/Debug/net8.0/RepeatableAttribute
+/Users/komal/24_02_25/RepeatableAttribute/bin/Debug/net8.0/RepeatableAttribute.deps.json
+/Users/komal/24_02_25/RepeatableAttribute/bin/Debug/net8.0/RepeatableAttribute.runtimeconfig.json
+/Users/komal/24_02_25/RepeatableAttribute/bin/Debug/net8.0/RepeatableAttribute.dll
+/Users/komal/24_02_25/RepeatableAttribute/bin/Debug/net8.0/RepeatableAttribute.pdb
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/RepeatableAttribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/RepeatableAttribute.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/RepeatableAttribute.AssemblyInfo.cs
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/RepeatableAttribute.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/RepeatableAttribute.sourcelink.json
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/RepeatableAttribute.dll
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/refint/RepeatableAttribute.dll
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/RepeatableAttribute.pdb
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/RepeatableAttribute.genruntimeconfig.cache
+/Users/komal/24_02_25/RepeatableAttribute/obj/Debug/net8.0/ref/RepeatableAttribute.dll

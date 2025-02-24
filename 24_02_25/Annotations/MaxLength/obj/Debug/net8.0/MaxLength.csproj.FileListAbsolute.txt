@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/MaxLength.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/MaxLength.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/MaxLength.AssemblyInfo.cs
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/MaxLength.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/MaxLength.sourcelink.json
+/Users/komal/24_02_25/MaxLength/bin/Debug/net8.0/MaxLength
+/Users/komal/24_02_25/MaxLength/bin/Debug/net8.0/MaxLength.deps.json
+/Users/komal/24_02_25/MaxLength/bin/Debug/net8.0/MaxLength.runtimeconfig.json
+/Users/komal/24_02_25/MaxLength/bin/Debug/net8.0/MaxLength.dll
+/Users/komal/24_02_25/MaxLength/bin/Debug/net8.0/MaxLength.pdb
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/MaxLength.dll
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/refint/MaxLength.dll
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/MaxLength.pdb
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/MaxLength.genruntimeconfig.cache
+/Users/komal/24_02_25/MaxLength/obj/Debug/net8.0/ref/MaxLength.dll

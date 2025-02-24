@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/CustomAttribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/CustomAttribute.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/CustomAttribute.AssemblyInfo.cs
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/CustomAttribute.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/CustomAttribute.sourcelink.json
+/Users/komal/24_02_25/CustomAttribute/bin/Debug/net8.0/CustomAttribute
+/Users/komal/24_02_25/CustomAttribute/bin/Debug/net8.0/CustomAttribute.deps.json
+/Users/komal/24_02_25/CustomAttribute/bin/Debug/net8.0/CustomAttribute.runtimeconfig.json
+/Users/komal/24_02_25/CustomAttribute/bin/Debug/net8.0/CustomAttribute.dll
+/Users/komal/24_02_25/CustomAttribute/bin/Debug/net8.0/CustomAttribute.pdb
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/CustomAttribute.dll
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/refint/CustomAttribute.dll
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/CustomAttribute.pdb
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/CustomAttribute.genruntimeconfig.cache
+/Users/komal/24_02_25/CustomAttribute/obj/Debug/net8.0/ref/CustomAttribute.dll

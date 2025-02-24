@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/WarningForUnchecked.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/WarningForUnchecked.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/WarningForUnchecked.AssemblyInfo.cs
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/WarningForUnchecked.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/WarningForUnchecked.sourcelink.json
+/Users/komal/24_02_25/WarningForUnchecked/bin/Debug/net8.0/WarningForUnchecked
+/Users/komal/24_02_25/WarningForUnchecked/bin/Debug/net8.0/WarningForUnchecked.deps.json
+/Users/komal/24_02_25/WarningForUnchecked/bin/Debug/net8.0/WarningForUnchecked.runtimeconfig.json
+/Users/komal/24_02_25/WarningForUnchecked/bin/Debug/net8.0/WarningForUnchecked.dll
+/Users/komal/24_02_25/WarningForUnchecked/bin/Debug/net8.0/WarningForUnchecked.pdb
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/WarningForUnchecked.dll
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/refint/WarningForUnchecked.dll
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/WarningForUnchecked.pdb
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/WarningForUnchecked.genruntimeconfig.cache
+/Users/komal/24_02_25/WarningForUnchecked/obj/Debug/net8.0/ref/WarningForUnchecked.dll

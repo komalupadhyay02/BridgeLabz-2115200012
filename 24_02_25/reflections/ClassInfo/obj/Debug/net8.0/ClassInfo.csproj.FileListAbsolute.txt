@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/ClassInfo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/ClassInfo.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/ClassInfo.AssemblyInfo.cs
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/ClassInfo.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/ClassInfo.sourcelink.json
+/Users/komal/24_02_25/reflections/ClassInfo/bin/Debug/net8.0/ClassInfo
+/Users/komal/24_02_25/reflections/ClassInfo/bin/Debug/net8.0/ClassInfo.deps.json
+/Users/komal/24_02_25/reflections/ClassInfo/bin/Debug/net8.0/ClassInfo.runtimeconfig.json
+/Users/komal/24_02_25/reflections/ClassInfo/bin/Debug/net8.0/ClassInfo.dll
+/Users/komal/24_02_25/reflections/ClassInfo/bin/Debug/net8.0/ClassInfo.pdb
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/ClassInfo.dll
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/refint/ClassInfo.dll
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/ClassInfo.pdb
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/ClassInfo.genruntimeconfig.cache
+/Users/komal/24_02_25/reflections/ClassInfo/obj/Debug/net8.0/ref/ClassInfo.dll

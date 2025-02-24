@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/Serialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/Serialization.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/Serialization.AssemblyInfo.cs
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/Serialization.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/Serialization.sourcelink.json
+/Users/komal/24_02_25/Serialization/bin/Debug/net8.0/Serialization
+/Users/komal/24_02_25/Serialization/bin/Debug/net8.0/Serialization.deps.json
+/Users/komal/24_02_25/Serialization/bin/Debug/net8.0/Serialization.runtimeconfig.json
+/Users/komal/24_02_25/Serialization/bin/Debug/net8.0/Serialization.dll
+/Users/komal/24_02_25/Serialization/bin/Debug/net8.0/Serialization.pdb
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/Serialization.dll
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/refint/Serialization.dll
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/Serialization.pdb
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/Serialization.genruntimeconfig.cache
+/Users/komal/24_02_25/Serialization/obj/Debug/net8.0/ref/Serialization.dll

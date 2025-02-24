@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/MarkImportant/bin/Debug/net8.0/MarkImportant
+/Users/komal/24_02_25/MarkImportant/bin/Debug/net8.0/MarkImportant.deps.json
+/Users/komal/24_02_25/MarkImportant/bin/Debug/net8.0/MarkImportant.runtimeconfig.json
+/Users/komal/24_02_25/MarkImportant/bin/Debug/net8.0/MarkImportant.dll
+/Users/komal/24_02_25/MarkImportant/bin/Debug/net8.0/MarkImportant.pdb
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/MarkImportant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/MarkImportant.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/MarkImportant.AssemblyInfo.cs
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/MarkImportant.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/MarkImportant.sourcelink.json
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/MarkImportant.dll
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/refint/MarkImportant.dll
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/MarkImportant.pdb
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/MarkImportant.genruntimeconfig.cache
+/Users/komal/24_02_25/MarkImportant/obj/Debug/net8.0/ref/MarkImportant.dll

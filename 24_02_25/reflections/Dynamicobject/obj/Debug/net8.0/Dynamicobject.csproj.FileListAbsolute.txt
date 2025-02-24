@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/Dynamicobject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/Dynamicobject.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/Dynamicobject.AssemblyInfo.cs
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/Dynamicobject.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/Dynamicobject.sourcelink.json
+/Users/komal/24_02_25/reflections/Dynamicobject/bin/Debug/net8.0/Dynamicobject
+/Users/komal/24_02_25/reflections/Dynamicobject/bin/Debug/net8.0/Dynamicobject.deps.json
+/Users/komal/24_02_25/reflections/Dynamicobject/bin/Debug/net8.0/Dynamicobject.runtimeconfig.json
+/Users/komal/24_02_25/reflections/Dynamicobject/bin/Debug/net8.0/Dynamicobject.dll
+/Users/komal/24_02_25/reflections/Dynamicobject/bin/Debug/net8.0/Dynamicobject.pdb
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/Dynamicobject.dll
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/refint/Dynamicobject.dll
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/Dynamicobject.pdb
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/Dynamicobject.genruntimeconfig.cache
+/Users/komal/24_02_25/reflections/Dynamicobject/obj/Debug/net8.0/ref/Dynamicobject.dll

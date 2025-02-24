@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/InvokePrivateMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/InvokePrivateMethod.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/InvokePrivateMethod.AssemblyInfo.cs
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/InvokePrivateMethod.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/InvokePrivateMethod.sourcelink.json
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/bin/Debug/net8.0/InvokePrivateMethod
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/bin/Debug/net8.0/InvokePrivateMethod.deps.json
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/bin/Debug/net8.0/InvokePrivateMethod.runtimeconfig.json
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/bin/Debug/net8.0/InvokePrivateMethod.dll
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/bin/Debug/net8.0/InvokePrivateMethod.pdb
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/InvokePrivateMethod.dll
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/refint/InvokePrivateMethod.dll
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/InvokePrivateMethod.pdb
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/InvokePrivateMethod.genruntimeconfig.cache
+/Users/komal/24_02_25/reflections/InvokePrivateMethod/obj/Debug/net8.0/ref/InvokePrivateMethod.dll

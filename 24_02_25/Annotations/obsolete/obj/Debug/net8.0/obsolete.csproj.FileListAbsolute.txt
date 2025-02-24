@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/obsolete.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/obsolete.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/obsolete.AssemblyInfo.cs
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/obsolete.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/obsolete.sourcelink.json
+/Users/komal/24_02_25/obsolete/bin/Debug/net8.0/obsolete
+/Users/komal/24_02_25/obsolete/bin/Debug/net8.0/obsolete.deps.json
+/Users/komal/24_02_25/obsolete/bin/Debug/net8.0/obsolete.runtimeconfig.json
+/Users/komal/24_02_25/obsolete/bin/Debug/net8.0/obsolete.dll
+/Users/komal/24_02_25/obsolete/bin/Debug/net8.0/obsolete.pdb
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/obsolete.dll
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/refint/obsolete.dll
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/obsolete.pdb
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/obsolete.genruntimeconfig.cache
+/Users/komal/24_02_25/obsolete/obj/Debug/net8.0/ref/obsolete.dll

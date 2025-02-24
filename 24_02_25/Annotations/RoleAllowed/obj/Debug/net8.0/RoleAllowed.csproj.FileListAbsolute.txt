@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/RoleAllowed/bin/Debug/net8.0/RoleAllowed
+/Users/komal/24_02_25/RoleAllowed/bin/Debug/net8.0/RoleAllowed.deps.json
+/Users/komal/24_02_25/RoleAllowed/bin/Debug/net8.0/RoleAllowed.runtimeconfig.json
+/Users/komal/24_02_25/RoleAllowed/bin/Debug/net8.0/RoleAllowed.dll
+/Users/komal/24_02_25/RoleAllowed/bin/Debug/net8.0/RoleAllowed.pdb
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/RoleAllowed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/RoleAllowed.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/RoleAllowed.AssemblyInfo.cs
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/RoleAllowed.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/RoleAllowed.sourcelink.json
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/RoleAllowed.dll
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/refint/RoleAllowed.dll
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/RoleAllowed.pdb
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/RoleAllowed.genruntimeconfig.cache
+/Users/komal/24_02_25/RoleAllowed/obj/Debug/net8.0/ref/RoleAllowed.dll

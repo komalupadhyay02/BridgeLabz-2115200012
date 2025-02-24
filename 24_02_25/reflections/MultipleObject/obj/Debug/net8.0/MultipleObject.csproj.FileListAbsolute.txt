@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/reflections/MultipleObject/bin/Debug/net8.0/MultipleObject
+/Users/komal/24_02_25/reflections/MultipleObject/bin/Debug/net8.0/MultipleObject.deps.json
+/Users/komal/24_02_25/reflections/MultipleObject/bin/Debug/net8.0/MultipleObject.runtimeconfig.json
+/Users/komal/24_02_25/reflections/MultipleObject/bin/Debug/net8.0/MultipleObject.dll
+/Users/komal/24_02_25/reflections/MultipleObject/bin/Debug/net8.0/MultipleObject.pdb
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/MultipleObject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/MultipleObject.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/MultipleObject.AssemblyInfo.cs
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/MultipleObject.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/MultipleObject.sourcelink.json
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/MultipleObject.dll
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/refint/MultipleObject.dll
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/MultipleObject.pdb
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/MultipleObject.genruntimeconfig.cache
+/Users/komal/24_02_25/reflections/MultipleObject/obj/Debug/net8.0/ref/MultipleObject.dll

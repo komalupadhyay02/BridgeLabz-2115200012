@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/CachingSystem/bin/Debug/net8.0/CachingSystem
+/Users/komal/24_02_25/CachingSystem/bin/Debug/net8.0/CachingSystem.deps.json
+/Users/komal/24_02_25/CachingSystem/bin/Debug/net8.0/CachingSystem.runtimeconfig.json
+/Users/komal/24_02_25/CachingSystem/bin/Debug/net8.0/CachingSystem.dll
+/Users/komal/24_02_25/CachingSystem/bin/Debug/net8.0/CachingSystem.pdb
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/CachingSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/CachingSystem.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/CachingSystem.AssemblyInfo.cs
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/CachingSystem.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/CachingSystem.sourcelink.json
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/CachingSystem.dll
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/refint/CachingSystem.dll
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/CachingSystem.pdb
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/CachingSystem.genruntimeconfig.cache
+/Users/komal/24_02_25/CachingSystem/obj/Debug/net8.0/ref/CachingSystem.dll

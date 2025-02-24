@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/LoginMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/LoginMethod.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/LoginMethod.AssemblyInfo.cs
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/LoginMethod.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/LoginMethod.sourcelink.json
+/Users/komal/24_02_25/LoginMethod/bin/Debug/net8.0/LoginMethod
+/Users/komal/24_02_25/LoginMethod/bin/Debug/net8.0/LoginMethod.deps.json
+/Users/komal/24_02_25/LoginMethod/bin/Debug/net8.0/LoginMethod.runtimeconfig.json
+/Users/komal/24_02_25/LoginMethod/bin/Debug/net8.0/LoginMethod.dll
+/Users/komal/24_02_25/LoginMethod/bin/Debug/net8.0/LoginMethod.pdb
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/LoginMethod.dll
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/refint/LoginMethod.dll
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/LoginMethod.pdb
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/LoginMethod.genruntimeconfig.cache
+/Users/komal/24_02_25/LoginMethod/obj/Debug/net8.0/ref/LoginMethod.dll

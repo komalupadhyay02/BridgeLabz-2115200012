@@ -1,0 +1,15 @@
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/AccessPrivateField.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/AccessPrivateField.AssemblyInfoInputs.cache
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/AccessPrivateField.AssemblyInfo.cs
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/AccessPrivateField.csproj.CoreCompileInputs.cache
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/AccessPrivateField.sourcelink.json
+/Users/komal/24_02_25/reflections/AccessPrivateField/bin/Debug/net8.0/AccessPrivateField
+/Users/komal/24_02_25/reflections/AccessPrivateField/bin/Debug/net8.0/AccessPrivateField.deps.json
+/Users/komal/24_02_25/reflections/AccessPrivateField/bin/Debug/net8.0/AccessPrivateField.runtimeconfig.json
+/Users/komal/24_02_25/reflections/AccessPrivateField/bin/Debug/net8.0/AccessPrivateField.dll
+/Users/komal/24_02_25/reflections/AccessPrivateField/bin/Debug/net8.0/AccessPrivateField.pdb
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/AccessPrivateField.dll
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/refint/AccessPrivateField.dll
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/AccessPrivateField.pdb
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/AccessPrivateField.genruntimeconfig.cache
+/Users/komal/24_02_25/reflections/AccessPrivateField/obj/Debug/net8.0/ref/AccessPrivateField.dll
