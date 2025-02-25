@@ -1,0 +1,15 @@
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/ReadAndCount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/ReadAndCount.AssemblyInfoInputs.cache
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/ReadAndCount.AssemblyInfo.cs
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/ReadAndCount.csproj.CoreCompileInputs.cache
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/ReadAndCount.sourcelink.json
+/Users/komal/25_02_25/ReadAndCount/bin/Debug/net8.0/ReadAndCount
+/Users/komal/25_02_25/ReadAndCount/bin/Debug/net8.0/ReadAndCount.deps.json
+/Users/komal/25_02_25/ReadAndCount/bin/Debug/net8.0/ReadAndCount.runtimeconfig.json
+/Users/komal/25_02_25/ReadAndCount/bin/Debug/net8.0/ReadAndCount.dll
+/Users/komal/25_02_25/ReadAndCount/bin/Debug/net8.0/ReadAndCount.pdb
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/ReadAndCount.dll
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/refint/ReadAndCount.dll
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/ReadAndCount.pdb
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/ReadAndCount.genruntimeconfig.cache
+/Users/komal/25_02_25/ReadAndCount/obj/Debug/net8.0/ref/ReadAndCount.dll

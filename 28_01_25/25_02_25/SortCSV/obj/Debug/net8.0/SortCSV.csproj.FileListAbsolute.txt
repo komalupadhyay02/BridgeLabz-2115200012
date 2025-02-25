@@ -1,0 +1,15 @@
+/Users/komal/25_02_25/SortCSV/bin/Debug/net8.0/SortCSV
+/Users/komal/25_02_25/SortCSV/bin/Debug/net8.0/SortCSV.deps.json
+/Users/komal/25_02_25/SortCSV/bin/Debug/net8.0/SortCSV.runtimeconfig.json
+/Users/komal/25_02_25/SortCSV/bin/Debug/net8.0/SortCSV.dll
+/Users/komal/25_02_25/SortCSV/bin/Debug/net8.0/SortCSV.pdb
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/SortCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/SortCSV.AssemblyInfoInputs.cache
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/SortCSV.AssemblyInfo.cs
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/SortCSV.csproj.CoreCompileInputs.cache
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/SortCSV.sourcelink.json
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/SortCSV.dll
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/refint/SortCSV.dll
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/SortCSV.pdb
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/SortCSV.genruntimeconfig.cache
+/Users/komal/25_02_25/SortCSV/obj/Debug/net8.0/ref/SortCSV.dll

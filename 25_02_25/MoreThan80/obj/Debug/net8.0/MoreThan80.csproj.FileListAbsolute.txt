@@ -1,0 +1,15 @@
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/MoreThan80.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/MoreThan80.AssemblyInfoInputs.cache
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/MoreThan80.AssemblyInfo.cs
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/MoreThan80.csproj.CoreCompileInputs.cache
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/MoreThan80.sourcelink.json
+/Users/komal/25_02_25/MoreThan80/bin/Debug/net8.0/MoreThan80
+/Users/komal/25_02_25/MoreThan80/bin/Debug/net8.0/MoreThan80.deps.json
+/Users/komal/25_02_25/MoreThan80/bin/Debug/net8.0/MoreThan80.runtimeconfig.json
+/Users/komal/25_02_25/MoreThan80/bin/Debug/net8.0/MoreThan80.dll
+/Users/komal/25_02_25/MoreThan80/bin/Debug/net8.0/MoreThan80.pdb
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/MoreThan80.dll
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/refint/MoreThan80.dll
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/MoreThan80.pdb
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/MoreThan80.genruntimeconfig.cache
+/Users/komal/25_02_25/MoreThan80/obj/Debug/net8.0/ref/MoreThan80.dll

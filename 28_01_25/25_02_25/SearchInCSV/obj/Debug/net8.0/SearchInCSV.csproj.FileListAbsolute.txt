@@ -1,0 +1,15 @@
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/SearchInCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/SearchInCSV.AssemblyInfoInputs.cache
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/SearchInCSV.AssemblyInfo.cs
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/SearchInCSV.csproj.CoreCompileInputs.cache
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/SearchInCSV.sourcelink.json
+/Users/komal/25_02_25/SearchInCSV/bin/Debug/net8.0/SearchInCSV
+/Users/komal/25_02_25/SearchInCSV/bin/Debug/net8.0/SearchInCSV.deps.json
+/Users/komal/25_02_25/SearchInCSV/bin/Debug/net8.0/SearchInCSV.runtimeconfig.json
+/Users/komal/25_02_25/SearchInCSV/bin/Debug/net8.0/SearchInCSV.dll
+/Users/komal/25_02_25/SearchInCSV/bin/Debug/net8.0/SearchInCSV.pdb
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/SearchInCSV.dll
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/refint/SearchInCSV.dll
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/SearchInCSV.pdb
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/SearchInCSV.genruntimeconfig.cache
+/Users/komal/25_02_25/SearchInCSV/obj/Debug/net8.0/ref/SearchInCSV.dll

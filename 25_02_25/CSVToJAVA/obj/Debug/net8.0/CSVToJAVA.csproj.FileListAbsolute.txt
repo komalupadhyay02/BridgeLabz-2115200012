@@ -1,0 +1,15 @@
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/CSVToJAVA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/CSVToJAVA.AssemblyInfoInputs.cache
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/CSVToJAVA.AssemblyInfo.cs
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/CSVToJAVA.csproj.CoreCompileInputs.cache
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/CSVToJAVA.sourcelink.json
+/Users/komal/25_02_25/CSVToJAVA/bin/Debug/net8.0/CSVToJAVA
+/Users/komal/25_02_25/CSVToJAVA/bin/Debug/net8.0/CSVToJAVA.deps.json
+/Users/komal/25_02_25/CSVToJAVA/bin/Debug/net8.0/CSVToJAVA.runtimeconfig.json
+/Users/komal/25_02_25/CSVToJAVA/bin/Debug/net8.0/CSVToJAVA.dll
+/Users/komal/25_02_25/CSVToJAVA/bin/Debug/net8.0/CSVToJAVA.pdb
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/CSVToJAVA.dll
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/refint/CSVToJAVA.dll
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/CSVToJAVA.pdb
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/CSVToJAVA.genruntimeconfig.cache
+/Users/komal/25_02_25/CSVToJAVA/obj/Debug/net8.0/ref/CSVToJAVA.dll

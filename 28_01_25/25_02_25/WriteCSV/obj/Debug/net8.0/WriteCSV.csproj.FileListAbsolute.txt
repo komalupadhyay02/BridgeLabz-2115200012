@@ -1,0 +1,15 @@
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/WriteCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/WriteCSV.AssemblyInfoInputs.cache
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/WriteCSV.AssemblyInfo.cs
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/WriteCSV.csproj.CoreCompileInputs.cache
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/WriteCSV.sourcelink.json
+/Users/komal/25_02_25/WriteCSV/bin/Debug/net8.0/WriteCSV
+/Users/komal/25_02_25/WriteCSV/bin/Debug/net8.0/WriteCSV.deps.json
+/Users/komal/25_02_25/WriteCSV/bin/Debug/net8.0/WriteCSV.runtimeconfig.json
+/Users/komal/25_02_25/WriteCSV/bin/Debug/net8.0/WriteCSV.dll
+/Users/komal/25_02_25/WriteCSV/bin/Debug/net8.0/WriteCSV.pdb
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/WriteCSV.dll
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/refint/WriteCSV.dll
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/WriteCSV.pdb
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/WriteCSV.genruntimeconfig.cache
+/Users/komal/25_02_25/WriteCSV/obj/Debug/net8.0/ref/WriteCSV.dll

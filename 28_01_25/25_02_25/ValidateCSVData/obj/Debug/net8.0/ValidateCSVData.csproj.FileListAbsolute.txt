@@ -1,0 +1,15 @@
+/Users/komal/25_02_25/ValidateCSVData/bin/Debug/net8.0/ValidateCSVData
+/Users/komal/25_02_25/ValidateCSVData/bin/Debug/net8.0/ValidateCSVData.deps.json
+/Users/komal/25_02_25/ValidateCSVData/bin/Debug/net8.0/ValidateCSVData.runtimeconfig.json
+/Users/komal/25_02_25/ValidateCSVData/bin/Debug/net8.0/ValidateCSVData.dll
+/Users/komal/25_02_25/ValidateCSVData/bin/Debug/net8.0/ValidateCSVData.pdb
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/ValidateCSVData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/ValidateCSVData.AssemblyInfoInputs.cache
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/ValidateCSVData.AssemblyInfo.cs
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/ValidateCSVData.csproj.CoreCompileInputs.cache
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/ValidateCSVData.sourcelink.json
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/ValidateCSVData.dll
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/refint/ValidateCSVData.dll
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/ValidateCSVData.pdb
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/ValidateCSVData.genruntimeconfig.cache
+/Users/komal/25_02_25/ValidateCSVData/obj/Debug/net8.0/ref/ValidateCSVData.dll

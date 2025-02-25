@@ -1,0 +1,15 @@
+/Users/komal/25_02_25/UpdateCSV/bin/Debug/net8.0/UpdateCSV
+/Users/komal/25_02_25/UpdateCSV/bin/Debug/net8.0/UpdateCSV.deps.json
+/Users/komal/25_02_25/UpdateCSV/bin/Debug/net8.0/UpdateCSV.runtimeconfig.json
+/Users/komal/25_02_25/UpdateCSV/bin/Debug/net8.0/UpdateCSV.dll
+/Users/komal/25_02_25/UpdateCSV/bin/Debug/net8.0/UpdateCSV.pdb
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/UpdateCSV.GeneratedMSBuildEditorConfig.editorconfig
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/UpdateCSV.AssemblyInfoInputs.cache
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/UpdateCSV.AssemblyInfo.cs
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/UpdateCSV.csproj.CoreCompileInputs.cache
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/UpdateCSV.sourcelink.json
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/UpdateCSV.dll
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/refint/UpdateCSV.dll
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/UpdateCSV.pdb
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/UpdateCSV.genruntimeconfig.cache
+/Users/komal/25_02_25/UpdateCSV/obj/Debug/net8.0/ref/UpdateCSV.dll
